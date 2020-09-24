@@ -4,6 +4,10 @@ import './Calculator.css'
 import Button from '../components/Button'
 import Display from '../components/Display'
 
+const inicialState = {
+    
+}
+
 export default class Calculator extends Component {
 
     constructor(props) {
